@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "24",
+      "firstName": "Bill",
+      "age": "20",
+      "companyId": "2"
+    },
+    {
+      "id": "42",
+      "firstName": "Bonnie",
+      "age": "42",
+      "companyId": "3"
+    },
+    {
+      "id": "412",
+      "firstName": "Binda",
+      "age": "22",
+      "companyId": "4"
+    },
+    {
+      "id": "1",
+      "firstName": "Billinda",
+      "age": 30,
+      "companyId": "2"
+    },
+    {
+      "id": "2",
+      "firstName": "Bob",
+      "age": "29",
+      "companyId": "3"
+    },
+    {
+      "id": "3",
+      "firstName": "Bond",
+      "age": "29",
+      "companyId": "3"
+    },
+    {
+      "firstName": "johnnie",
+      "age": 30,
+      "id": "TlDAUoK"
+    },
+    {
+      "firstName": "johnnie",
+      "age": 30,
+      "id": "sTTdS2K"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "ticker": "AAPL"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "ticker": "GOOG"
+    },
+    {
+      "id": "3",
+      "name": "Microsoft",
+      "ticker": "MSFT"
+    },
+    {
+      "id": "4",
+      "name": "Verizon",
+      "ticker": "VZ"
+    }
+  ]
+}

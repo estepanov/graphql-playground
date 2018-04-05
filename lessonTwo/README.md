@@ -1,5 +1,6 @@
-#Lesson Two
-This lesson covers using GraphQL to query multiple different data sources. In this project it queries another api and the same fixed data from lesson one.
+# Lesson Two
+
+This lesson covers using GraphQL to query any external data sources. In this project it queries another api and the same fixed data from lesson one.
 
 The secondary API in this sample is a server running [json-server](https://github.com/typicode/json-server 'json-server official GitHub repo').
 
